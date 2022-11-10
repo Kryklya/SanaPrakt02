@@ -3,5 +3,5 @@ Console.WriteLine("Слава Україні!");
 Console.WriteLine("Слава Україні!");
 Console.WriteLine("Слава Україні!");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Героям Слава!");
+Console.WriteLine("Героям Слава!");
